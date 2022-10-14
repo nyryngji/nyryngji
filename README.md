@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/105197496/194002835-3756ee4c-83fd-497a-80a4-ad6c8a674056.gif" width="100%" align = "center">
+![title3](https://user-images.githubusercontent.com/105197496/195889395-059d4d10-4ef0-49b3-93b1-147cbf4ea2d3.png)
+
 
 
 📘 **STUDY** <br>
