@@ -2,9 +2,13 @@
 
 
 
-## 📘 **I'm Studying...** <br>
+## 📘 **I'm Studying** <br>
 
-<img src="https://img.shields.io/badge/Python-00ABF0?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Github-0072A0?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Java-004764?style=for-the-badge&logo=OpenJDK&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-89CFF0?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Python-00ABF0?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Github-0072A0?style=for-the-badge&logo=Github&logoColor=white"> <img src="https://img.shields.io/badge/Java-004764?style=for-the-badge&logo=OpenJDK&logoColor=white"/> 
+
+## 💻 **Tool**
+
+<img src="https://img.shields.io/badge/Pycharm-89CFF0?style=for-the-badge&logo=Pycharm&logoColor=white"> <img src="https://img.shields.io/badge/eclipse-00ABF0?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/Git-0072A0?style=for-the-badge&logo=Git&logoColor=white">
 
 ## 💻 My Github Stats 
 <div align="left">
