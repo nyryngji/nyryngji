@@ -8,7 +8,7 @@
 
 ## 💻 **Tool**
 
-<img src="https://img.shields.io/badge/Pycharm-89CFF0?style=for-the-badge&logo=Pycharm&logoColor=white"> <img src="https://img.shields.io/badge/eclipse-00ABF0?style=for-the-badge&logo=Eclipse IDE&logoColor=white"> <img src="https://img.shields.io/badge/Git-0072A0?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Pycharm-89CFF0?style=for-the-badge&logo=Pycharm&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ-00ABF0?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Git-0072A0?style=for-the-badge&logo=Git&logoColor=white">
 
 ## 💻 My Github Stats 
 <div align="left">
