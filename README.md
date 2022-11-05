@@ -13,4 +13,4 @@
 ## 💻 My Github Stats 
 <div align="left">
 
-![nyryngji's github stats](https://github-readme-stats.vercel.app/api?username=nyryngji&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyryngji)](https://github.com/nyryngji/github-readme-stats)
+<a href="https://github.com/nyryngji"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=nyryngji&show_icons=true&include_all_commits=true&theme=transparent" alt="nurungji's github stats" /></a> <a href="https://github.com/nyryngji"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyryngji&layout=compact&theme=transparent" /></a> 
