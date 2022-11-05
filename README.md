@@ -13,4 +13,4 @@
 ## 💻 My Github Stats 
 <div align="left">
 
-<a href="https://github.com/nyryngji"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=nyryngji&show_icons=true&include_all_commits=true&theme=transparent" alt="nurungji's github stats" /></a> <a href="https://github.com/nyryngji"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyryngji&layout=compact&theme=transparent" /></a> 
+<a href="https://github.com/nyryngji"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=nyryngji&show_icons=true&include_all_commits=true&theme=transparent" alt="nurungji's github stats" /></a> <a href="https://github.com/nyryngji"><img align="center" style="height:180px width:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyryngji&layout=compact&theme=transparent" /></a> 
