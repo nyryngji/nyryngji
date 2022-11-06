@@ -11,6 +11,5 @@
 <img src="https://img.shields.io/badge/Pycharm-89CFF0?style=for-the-badge&logo=Pycharm&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ-00ABF0?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Git-0072A0?style=for-the-badge&logo=Git&logoColor=white">
 
 ## 💻 My Github Stats 
-<div align="left">
 
-<a href="https://github.com/nyryngji"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=nyryngji&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="nyryngji's github stats" /></a> <a href="https://github.com/nyryngji"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyryngji&layout=compact&theme=nord&hide_border=true" /></a> 
+![nyryngji's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyryngji&show_icons=true&theme=nord&hide) <img align="center" style="height:180px weight:400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyryngji&layout=compact&theme=nord&hide_border=true" /></a> 
