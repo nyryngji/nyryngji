@@ -12,4 +12,5 @@
 
 ## 💻 My Github Stats 
 
-![nyryngji's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyryngji&show_icons=true&theme=nord&hide) <img align="center" style="height:180px weight:400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyryngji&layout=compact&theme=nord&hide_border=true" /></a> 
+![nyryngji's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyryngji&show_icons=true&theme=nord&hide)
+<img align="center" style="height:180px " src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyryngji&layout=compact&theme=nord&hide_border=true" /></a> 
