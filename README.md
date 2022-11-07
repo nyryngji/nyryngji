@@ -12,4 +12,4 @@
 
 ## 💻 My Github Stats 
 
-<img align="center" style="height:180px " src="https://github-readme-stats.vercel.app/api?username=nyryngji&show_icons=true&theme=nord&hide" /></a><img align="center" style="height:180px " src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyryngji&layout=compact&theme=nord&hide_border=true" /></a> 
+![nyryngji's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyryngji&show_icons=true&theme=nord&hide)
