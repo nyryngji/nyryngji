@@ -12,4 +12,4 @@
 
 ## 💻 My Github Stats 
 
-![nyryngji's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyryngji&show_icons=true&theme=nord&hide)
+![nyryngji's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyryngji&show_icons=true&theme=nord&hide) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyryngji&layout=compact&theme=nord&hide)
