@@ -12,3 +12,7 @@
 ## 💻 My Github Stats 
 
 ![nyryngji's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyryngji&show_icons=true&theme=nord&hide) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyryngji&layout=compact&theme=nord&hide)
+
+## Baekjoon
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=amysmiles1214)](https://solved.ac/amysmiles1214/)
